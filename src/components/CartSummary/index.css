@@ -1,0 +1,34 @@
+.cart-summary-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-self: flex-end;
+  max-width: 250px;
+  margin: 20px;
+}
+
+.cart-summary-head {
+  font-size: 20px;
+  font-weight: bold;
+  color: #616e7c;
+  font-family: 'Roboto';
+}
+.total {
+  color: #000000;
+}
+.items-cart {
+  font-size: 15px;
+  font-weight: bold;
+  color: #616e7c;
+  font-family: 'Roboto';
+}
+.check-out {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: #ffffff;
+  border: 0px;
+  background-color: #0b69ff;
+  border-radius: 10px;
+  padding: 10px;
+}
